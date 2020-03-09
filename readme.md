@@ -15,6 +15,7 @@ Merge two terms into one. Move all posts from term A to term B and optionally de
 Basic (all post types, image size large):
 
 `wp term-merge run --from={term_id 1} --to={term_id 2}`
+
 `wp term-merge run --from=123 --to=321`
 
 Skip deleting the term:
